@@ -1,3 +1,4 @@
+# This program calculates the average marks of a student and checks if they need additional classes based on their average score.
 maths=int(input("Enter your maths marks: "))
 science=int(input("Enter your science marks: "))
 english=int(input("Enter your english marks: "))
