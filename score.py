@@ -1,3 +1,4 @@
+# This program checks if a student is eligible based on their score percentage.
 score=int(input("Score Persentage: "))
 if(score>=70):
     name=input("Enter your name: ")
