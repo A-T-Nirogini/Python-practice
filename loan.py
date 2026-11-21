@@ -1,3 +1,4 @@
+# This program checks if a user is eligible for a loan based on their salary and age, and also checks if the requested loan amount is within the allowed limit.
 salary=int(input("Enter your salary: "))
 age=int(input("Enter your age: "))
 if(salary>=20000 or age<=25):
