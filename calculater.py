@@ -1,3 +1,4 @@
+# This program performs basic arithmetic operations based on user input.
 a=int(input())
 b=int(input())
 c=input()
