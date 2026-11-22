@@ -1,3 +1,4 @@
+# This program prints all even numbers between two given integers and counts how many even numbers are found.
 a=int(input())
 b=int(input())
 count=0
