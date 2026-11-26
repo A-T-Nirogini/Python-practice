@@ -1,0 +1,6 @@
+# This code demonstrates the difference between tuples and lists in Python.
+a=(1,2,3,4,5)
+b=list(a)
+b.pop()
+print(a)
+print(b)
